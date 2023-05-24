@@ -1,11 +1,21 @@
-- 👋 Hi, I’m Mihkel
-- 👀 I’m interested in working out, collecting cards and writing solo projects to learn new skills.
-- 🌱 I’m currently learning more about java and spring framework.
-- This repo is for personal solo projects.
-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikadoMiku)](https://github.com/MikadoMiku/github-readme-stats)
+# Hello, World! 👋
+
+I'm Mihkel, a Software Engineer based in Estonia. I specialize in JavaScript/TypeScript, but dabble in whatever seems interesting.
+
+## 💼 Current Work
+I'm currently working at Nixor EE AS as a Software Engineer. Here, We Do It.
+
+## 🛠 Skills
+Here are a few technologies I'm experienced with:
+- C++
+- Java/Kotlin
+- JavaScript/TypeScript
+
+## 📖 What I'm currently learning
+I'm currently learning more C++, more specifically COM to allow JavaScript in 64 bit to use and communicate with 32 bit Opos Devices like scanners and printers.
 
 
+## 📊 My GitHub Stats
 ![Miq's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikadoMiku&count_private=true)
 
 <!---
