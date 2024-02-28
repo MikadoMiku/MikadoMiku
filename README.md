@@ -12,7 +12,7 @@ Here are a few technologies I'm experienced with:
 - JavaScript/TypeScript
 
 ## 📖 What I'm currently learning
-I'm currently learning more C++, more specifically COM to allow JavaScript in 64 bit to use and communicate with 32 bit Opos Devices like scanners and printers.
+- Drawing anything
 
 
 ## 📊 My GitHub Stats
