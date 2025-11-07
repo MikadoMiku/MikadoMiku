@@ -11,9 +11,6 @@ Here are a few technologies I'm experienced with:
 - Java/Kotlin
 - JavaScript/TypeScript
 
-## 📖 What I'm currently learning
-- Drawing anything
-
 
 <!--## 📊 My GitHub Stats
 ![Miq's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikadoMiku&count_private=true)
